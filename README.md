@@ -1,7 +1,7 @@
 ![logo](https://github.com/SwarnankoSaha/SwarnankoSaha/blob/main/Black%20Modern%20Gaming%20Channel%20Banner%20Landscape.png)
 
 <h1 align="center">Hello 👋, I'M SWARNANKO SAHA</h1>
-<h3 align="center">ENGINEERING STUDENT FOCUSING ON FRONTEND ...</h3>
+<h3 align="center">ENGINEERING STUDENT FOCUSING ON FRONTEND DEVELOPMENT...</h3>
 
 <img align="right" alt=""  width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
